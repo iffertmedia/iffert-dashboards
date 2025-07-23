@@ -1,0 +1,1 @@
+// App.jsx placeholder - final content should be pasted from canvas
