@@ -1,1 +1,0 @@
-export default function Creators() { return <div className="text-center">Creators coming soon.</div>; }

@@ -1,1 +1,0 @@
-export default function Products() { return <div className="text-center">Products coming soon.</div>; }
